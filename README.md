@@ -1,4 +1,4 @@
-# top_5_countries_per_continent.ipynb
+# continent_population_data_cleaning.ipynb
 This project cleans and analyzes global country population data by merging multiple real-world datasets.
 The final output presents the top 5 most populated countries for each continent using Python and Pandas.
 
